@@ -1,0 +1,13 @@
+{
+    "name": "php/twitter",
+    "require": {
+        "illuminate/database": "^5.5"
+    },
+    "authors": [
+        {
+            "name": "yann",
+            "email": "yanndumas54230@gmail.com"
+        }
+    ]
+
+}
