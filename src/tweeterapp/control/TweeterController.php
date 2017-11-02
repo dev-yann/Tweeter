@@ -43,7 +43,7 @@ class TweeterController extends \mf\control\AbstractController {
     // Affiche la liste des tweets
     public function viewHome(){
 
-        $tweets = Tweet::get();
+        $tweets = Tweet::limit(5)->get();
 
 
 

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb39288f-39c7-4efe-8b0a-7b189f194195" name="Default" comment="" />
+    <list default="true" id="cb39288f-39c7-4efe-8b0a-7b189f194195" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tweeterapp/control/TweeterController.php" afterPath="$PROJECT_DIR$/src/tweeterapp/control/TweeterController.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +16,7 @@
       <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1780">
+            <state relative-caret-position="1640">
               <caret line="89" column="165" lean-forward="false" selection-start-line="89" selection-start-column="165" selection-end-line="89" selection-end-column="165" />
               <folding>
                 <element signature="e#319#340#0#PHP" expanded="true" />
@@ -23,14 +25,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TweeterController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TweeterController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tweeterapp/control/TweeterController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="140">
+              <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
               <folding>
                 <element signature="e#476#503#0#PHP" expanded="true" />
-                <element signature="e#3302#3436#0#PHP" expanded="false" />
+                <element signature="e#3312#3446#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -46,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TweeterView.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TweeterView.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tweeterapp/view/TweeterView.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="240">
               <caret line="61" column="135" lean-forward="false" selection-start-line="61" selection-start-column="135" selection-end-line="61" selection-end-column="135" />
               <folding>
                 <element signature="e#34#60#0#PHP" expanded="true" />
@@ -110,6 +112,9 @@
       <find />
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -132,9 +137,9 @@
         <option value="$PROJECT_DIR$/src/mf/router/Router.php" />
         <option value="$PROJECT_DIR$/src/mf/view/AbstractView.php" />
         <option value="$PROJECT_DIR$/html/style.css" />
-        <option value="$PROJECT_DIR$/src/tweeterapp/control/TweeterController.php" />
         <option value="$PROJECT_DIR$/src/tweeterapp/model/Tweet.php" />
         <option value="$PROJECT_DIR$/src/tweeterapp/view/TweeterView.php" />
+        <option value="$PROJECT_DIR$/src/tweeterapp/control/TweeterController.php" />
       </list>
     </option>
   </component>
@@ -151,6 +156,7 @@
     <option name="width" value="649" />
     <option name="height" value="764" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -338,14 +344,15 @@
       <workItem from="1509457232198" duration="15939000" />
       <workItem from="1509545341360" duration="1267000" />
       <workItem from="1509547681514" duration="1108000" />
+      <workItem from="1509630567427" duration="415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113038000" />
+    <option name="totallyTimeSpent" value="113453000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="516" y="7" width="1303" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5284178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -353,7 +360,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -502,7 +509,7 @@
           <caret line="61" column="97" lean-forward="false" selection-start-line="61" selection-start-column="97" selection-end-line="61" selection-end-column="97" />
           <folding>
             <element signature="e#476#503#0#PHP" expanded="true" />
-            <element signature="e#3302#3436#0#PHP" expanded="false" />
+            <element signature="e#3312#3446#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -698,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="50" column="70" lean-forward="false" selection-start-line="50" selection-start-column="70" selection-end-line="50" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,9 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="976">
           <caret line="107" column="26" lean-forward="true" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
-          <folding>
-            <element signature="e#107#136#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -746,7 +749,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1780">
+        <state relative-caret-position="1640">
           <caret line="89" column="165" lean-forward="false" selection-start-line="89" selection-start-column="165" selection-end-line="89" selection-end-column="165" />
           <folding>
             <element signature="e#319#340#0#PHP" expanded="true" />
@@ -774,17 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tweeterapp/control/TweeterController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#476#503#0#PHP" expanded="true" />
-            <element signature="e#3302#3436#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tweeterapp/model/Tweet.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -803,7 +795,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tweeterapp/view/TweeterView.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="240">
           <caret line="61" column="135" lean-forward="false" selection-start-line="61" selection-start-column="135" selection-end-line="61" selection-end-column="135" />
           <folding>
             <element signature="e#34#60#0#PHP" expanded="true" />
@@ -823,6 +815,17 @@
             <marker date="1509548419813" expanded="true" signature="4536:5067" ph="..." />
             <marker date="1509548419813" expanded="true" signature="4615:5048" ph="..." />
             <marker date="1509548419813" expanded="true" signature="5750:5789" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tweeterapp/control/TweeterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          <folding>
+            <element signature="e#476#503#0#PHP" expanded="true" />
+            <element signature="e#3312#3446#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
